@@ -1,0 +1,2 @@
+ERROR: The following error occurred in node Stream Data: the StreamData can only stream
+ data that has monotonically increasing time stamps (i.e., no badly stitched data or jitterytimestamps)
